@@ -5,7 +5,7 @@ GBC-Design Patterns in Blockchain
 Goal:
 * Create a smart contract with a Factory pattern that creates ERC721 NFTs that can be used in Rarible or Open Sea.
 
-**Status: Completed** 
+**Status: Ongoing** 
 
 ### Student Information
 
